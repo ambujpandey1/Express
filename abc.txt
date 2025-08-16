@@ -1,0 +1,35 @@
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git config --global user.name Ambuj
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git config --global user.email "ambujp863@gmail.com"
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ touch .gitignore
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git add .
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git commit -m "FirstCommit"
+On branch main
+nothing to commit, working tree clean
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git status
+On branch main
+nothing to commit, working tree clean
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git remote add origin https://github.com/ambuj3/Express.git
+error: remote origin already exists.
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/ambuj3/ExpressJs.git'
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
+$ ^C
+
+Ambuj pandey@Ambujp MINGW64 ~/OneDrive/Desktop/EXPRESSJSCODE (main)
